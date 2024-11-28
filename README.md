@@ -14,8 +14,7 @@
 10. [Conclusion](#conclusion)
 ### 🗂️ Data Sources <a name="data-sources"></a> 
 - The dataset used for this analysis is the "Pizza_Sales_Data.csv" file, containing detailed information.
-- You can download the dataset from the following link: [Ecommerce_Sales_Dataset 1.csv](ecommerce_data.csv)
-
+- You can download the dataset from the following link: [Ecommerce Sales Dataset-1](ecommerce_data.csv) and [Ecommerce Sales DataSet-2](us_state_long_lat_codes (1).csv)                                                                                                           
 ### 🛠️Tools Used <a name="tools-used"></a>
  - **Excel**: For data cleaning, analysis, and initial visualizations.
  - **SQL Server**: For querying and analyzing the dataset.
