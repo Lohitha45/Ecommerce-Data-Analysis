@@ -55,7 +55,7 @@ SQL queries were used to analyze pizza sales data, focusing on key performance i
 5. Creating Dashboard, Generating Insights
 
 ### 📊Result and Findings <a name="result-and-findings"></a>
-![Screenshot (184)](https://github.com/user-attachments/assets/8a640cab-1585-4a8e-ad15-e3be73a7fe4a)
+![Screenshot (185)](https://github.com/Lohitha45/Ecommerce-Data-Analysis/blob/15d8d3bcd7fcce44892fee2a9331e1dfa36f7f24/Screenshot%20(185).png)
 ### 🧐Key Findings
 #### 1. Busiest Days and Times
 - **Days**: Orders are highest on weekends, particularly on **Friday** and **Saturday evenings**.
