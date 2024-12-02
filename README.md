@@ -9,7 +9,7 @@
 5. [Process](#process)
 6. [Result and Findings](#result-and-findings)
 7. [Recommendations](#recommendations)
-8.[Conclusion](#conclusion)
+8. [Conclusion](#conclusion)
 ### 🗂️ Data Sources <a name="data-sources"></a> 
 - The dataset used for this analysis is the "Pizza_Sales_Data.csv" file, containing detailed information.
 - You can download the dataset from the following link: [Ecommerce Sales Dataset-1](ecommerce_data.csv) and [Ecommerce Sales Dataset-2](us_state_long_lat_codes.csv)       
