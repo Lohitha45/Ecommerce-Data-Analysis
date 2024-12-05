@@ -1,6 +1,6 @@
 # Ecommerce-Data-Analysis
  ### Overview
- This project analyzes Ecommerce sales data using **Power BI**. It includes Creating Date Table, Data Visualization, Creating Dashboard, Generating Insights to analyze KPIs and Trends. The goal is to identify top-selling Products, uncover sales trends, and optimize sales strategies.
+ This project analyzes Ecommerce sales data using **Excel** and **Power BI**. It includes Creating Date Table, Data Visualization, Creating Dashboard, Generating Insights to analyze KPIs and Trends. The goal is to identify top-selling Products, uncover sales trends, and optimize sales strategies.
 ### 📚Table of Contents:
 1. [Overview](#overview)
 2. [Data Sources](#data-sources)
